@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T03:26:31.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.3.2" etag="Hy87iMCnwsI_l0Wa-1x0" type="github"><diagram id="1tVyW97FY1OL8XUODhdm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-16T03:42:03.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="hAaahOuejCNjyiXCuWwX" version="14.3.2" type="github">
+  <diagram id="1tVyW97FY1OL8XUODhdm" name="Page-1">
+    <mxGraphModel dx="880" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z48XP9DZod-dPxHorak8-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Z48XP9DZod-dPxHorak8-5" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z48XP9DZod-dPxHorak8-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#EBF2FF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="190" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="Z48XP9DZod-dPxHorak8-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-128.png" vertex="1" parent="1">
+          <mxGeometry x="808" y="248" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Z48XP9DZod-dPxHorak8-7" value="Django" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z48XP9DZod-dPxHorak8-9" value="Docker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
